@@ -13,5 +13,4 @@ Desenvolvedor, focado em transformar lógica em soluções reais. Atualmente apr
 </p>
 
 ### 📫 Como me encontrar
-[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/carlos-eduardo-822458277))
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-822458277)
